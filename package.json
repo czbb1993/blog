@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/czbb1993/blog/issues"
   },
-  "homepage": "https://github.com/czbb1993/blog",
+  "homepage": "https://github.com/czbb1993/blog#index",
   "devDependencies": {
     "@femm/prettier": "^1.0.1",
     "@mdit-vue/shared": "^0.12.0",
